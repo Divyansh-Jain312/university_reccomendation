@@ -1,0 +1,101 @@
+Rank,University Name,Country,Top Fields of Study,Description,Academic Reputation Score
+1,Massachusetts Institute of Technology (MIT),United States,"Computer Science, Data Science, Robotics","Renowned for excellence in computer science, robotics, and data-driven research, with cutting-edge labs and interdisciplinary AI collaborations.",100
+2,University of Cambridge,United Kingdom,"Physics, Law, Engineering","Strong in engineering and law, with research spanning quantum computing to international legal systems and regulatory frameworks.",99.5
+3,University of Oxford,United Kingdom,"Medicine, Law, Humanities","A leader in medicine and law, offering pioneering research in clinical sciences, global health, and legal theory.",99.3
+4,Harvard University,United States,"Finance, Medicine, Law","World-class in business, law, and health sciences, with an emphasis on policy innovation, leadership, and biomedical research.",99.4
+5,Stanford University,United States,"Entrepreneurship, Computer Science, NLP","Known for entrepreneurial culture and leadership in NLP, AI ethics, and innovation ecosystems connecting research and startups.",99.2
+6,Imperial College London,United Kingdom,"Medicine, Data Science, Engineering","Top-tier in medicine and engineering, with a strong focus on biomedical innovation, computational biology, and applied data science.",98.8
+7,ETH Zurich,Switzerland,"Robotics, Physics, Computer Vision","Recognized for contributions to robotics and computer vision, with a strong foundation in theoretical physics and systems engineering.",98.6
+8,National University of Singapore (NUS),Singapore,"Computer Science, Marketing, Law","A hub for digital marketing research, computational law, and scalable computing systems, especially in the Asian context.",97.9
+9,University College London (UCL),United Kingdom,"Neuroscience, Machine Learning, Public Policy","Known for neuroscience and ML, with applied research into public policy, ethics, and intelligent systems.",97.7
+10,California Institute of Technology (Caltech),United States,"Astrophysics, AI, Engineering","Globally recognized for astrophysics, AI, and innovation in low-level engineering and system optimization.",97.5
+11,University of Chicago,United States,"Economics, Finance, Political Science","Globally acclaimed for economics and finance, with a legacy of Nobel laureates and pioneering policy research.",97.2
+12,National University of Singapore (NUS),Singapore,"Computer Science, Law, Urban Planning","A leader in computer science and legal tech, with strong interdisciplinary programs in smart cities and sustainability.",97.1
+13,Peking University,China,"Philosophy, Political Science, Medicine","One of China's top universities, known for humanities, public health initiatives, and strong government policy research.",96.9
+14,University of Pennsylvania,United States,"Finance, Marketing, Medicine","Home to Wharton School, with cutting-edge research in marketing analytics and healthcare management.",96.8
+15,Tsinghua University,China,"Engineering, Computer Science, Environmental Studies","Top technical university in China, excelling in green innovation, computer engineering, and global development.",96.7
+16,University of Edinburgh,United Kingdom,"Informatics, Medicine, AI Ethics","Renowned for its informatics department and biomedical research, with a strong ethical lens on AI applications.",96.5
+17,Columbia University,United States,"Journalism, Law, Data Science","A pioneer in journalism and legal studies, with deep expertise in urban analytics and public data policy.",96.4
+18,Princeton University,United States,"Mathematics, Physics, Public Policy","Exceptional in theoretical sciences and public policy analysis, blending foundational research with civic leadership.",96.3
+19,Cornell University,United States,"Hospitality, Computer Science, Biomedical Engineering","Offers world-class programs in hospitality management, robotics, and translational biomedical technologies.",96.2
+20,University of Tokyo,Japan,"Engineering, Robotics, Natural Sciences","Japan’s leading university with top-tier programs in robotics, automation, and environmental science innovation.",96.1
+21,University of California,United States,"Computer Science, Economics, Environmental Policy","Excels in CS and economics, with pioneering sustainability research and open-source innovation leadership.",96
+22,University of Michigan-Ann Arbor,United States,"Engineering, Public Health, Data Science",Known for top-ranked engineering programs and public health research with a data-driven policy approach.,95.8
+23,The University of Hong Kong (HKU),Hong Kong,"Medicine, Law, Finance","Top medical research institution in Asia, with strong global links in legal reform and international finance.",95.6
+24,Johns Hopkins University,United States,"Medicine, Public Health, Bioinformatics","World-renowned for clinical research and epidemiology, especially in infectious disease modeling and genomics.",95.5
+25,Northwestern University,United States,"Marketing, Journalism, Neuroscience","Leads in marketing science, behavioral neuroscience, and award-winning journalism innovation.",95.4
+26,University of Toronto,Canada,"AI, Medicine, Psychology","Offers top research in deep learning, cognitive psychology, and biomedical AI with strong industry ties.",95.3
+27,Australian National University (ANU),Australia,"Political Science, Earth Sciences, Philosophy","Specializes in political theory, climate policy, and philosophy of science with a strong research culture.",95.2
+28,London School of Economics and Political Science (LSE),United Kingdom,"Economics, Political Science, Law","World leader in economics and governance, offering cutting-edge social science research and legal theory.",95
+29,King's College London,United Kingdom,"Medicine, Law, Psychiatry","Known for medical ethics, neuroscience, and law, with a focus on global health and public justice.",94.9
+30,Seoul National University (SNU),South Korea,"Engineering, Natural Sciences, International Relations","Top Korean university with strengths in engineering innovation, materials science, and East Asian diplomacy.",94.8
+31,�cole Polytechnique F�d�rale de Lausanne (EPFL),Switzerland,"Engineering, Computer Vision, Renewable Energy","Highly regarded for engineering and renewable energy tech, with advanced research in robotics and visual computing.",94.7
+32,University of Manchester,United Kingdom,"Materials Science, Business, Chemistry","Known for graphene research, international business studies, and impactful chemistry innovations.",94.6
+33,University of California,United States,"Film, Medicine, AI","Strong in medicine and film studies, with rapidly growing research in applied AI and digital media.",94.5
+34,McGill University,Canada,"Neuroscience, Medicine, Public Policy","International leader in brain research and health policy, combining clinical research with ethical governance.",94.3
+35,Kyoto University,Japan,"Physics, Environmental Science, Biotechnology","Noted for fundamental physics and green science leadership, with focus on innovation in biotech and sustainability.",94.2
+36,Fudan University,China,"Business, Political Science, Data Science","Top university in China for international business, policy research, and modern data science programs.",94
+37,New York University (NYU),United States,"Finance, Performing Arts, Media Studies","Renowned for finance and cultural media programs, with deep research in global capital markets and media theory.",93.9
+38,The University of Sydney,Australia,"Medicine, Law, Veterinary Science","One of Australia's best in medical and legal education, with emphasis on rural health and ethics.",93.8
+39,The University of Melbourne,Australia,"Education, Engineering, Data Analytics","Excels in education systems and engineering, with a growing focus on applied data analytics.",93.7
+40,Korea Advanced Institute of Science and Technology (KAIST),South Korea,"Robotics, Computer Science, Entrepreneurship","Known for robotics innovation and CS, with strong links to startup incubation and global tech leadership.",93.5
+41,Technical University of Munich (TUM),Germany,"Engineering, Computer Science, Environmental Tech","Germany's top technical university with a focus on green engineering, software systems, and sustainable innovation.",93.3
+42,The University of New South Wales (UNSW Sydney),Australia,"Law, Business, Renewable Energy","Known for energy research, top-tier business education, and cutting-edge legal studies with global partnerships.",93.1
+43,University of British Columbia,Canada,"Forestry, Oceanography, Data Science","Excels in environmental science and data analytics, with global leadership in forestry and marine research.",93
+44,University of Bristol,United Kingdom,"Aerospace Engineering, Psychology, AI","Strong in engineering and psychology, with rapidly growing AI research clusters and innovation hubs.",92.8
+45,Zhejiang University,China,"Engineering, Materials Science, Data Security","Top Chinese institution with strengths in intelligent systems, materials innovation, and cybersecurity.",92.6
+46,The Chinese University of Hong Kong (CUHK),Hong Kong,"Medicine, Business, Neuroscience","Offers strong medical research and business programs, with interdisciplinary research in brain science and biotech.",92.4
+47,University of Amsterdam,Netherlands,"Communication, AI, Psychology","Top in social sciences, known for behavioral psychology, cognitive AI, and advanced communication theory.",92.3
+48,University of Warwick,United Kingdom,"Economics, Business Analytics, Philosophy","Renowned for economics and management science, with emphasis on logical reasoning and quantitative strategy.",92.1
+49,Brown University,United States,"Cognitive Science, Political Philosophy, Public Health","Ivy League leader in interdisciplinary thinking, blending philosophy, cognition, and public health policy.",92
+50,Lund University,Sweden,"Life Sciences, Innovation, Public Policy","Known for environmental and health innovation, integrating sustainability with biotech and policy research.",91.9
+51,Universität Heidelberg,Germany,"Medicine, Philosophy, Neuroscience","Germany's oldest university, renowned for medical education and research in cognition and philosophical sciences.",91.7
+52,University of Glasgow,United Kingdom,"Medicine, Law, History","Strong in clinical medicine and legal history, with major contributions to historical and ethical scholarship.",91.6
+53,University of Washington,United States,"Bioinformatics, Public Health, Urban Planning","World leader in genomics, health metrics, and sustainable city design with heavy public-sector collaborations.",91.5
+54,KU Leuven,Belgium,"Engineering, Theology, Biomedical Science","Combines tradition and innovation across engineering, ethics, and medical devices research.",91.4
+55,University of Illinois Urbana-Champaign,United States,"Computer Engineering, Agriculture, Data Analytics","Leader in computational research and agricultural tech, known for scalable systems and applied AI.",91.2
+56,Sorbonne University,France,"Humanities, Marine Science, Physics","Historic institution with strengths in marine biology, classical studies, and quantum physics.",91
+57,Universität München (LMU Munich),Germany,"Philosophy, Law, Biology","Offers deep academic tradition in legal theory, biological sciences, and philosophy of science.",90.9
+58,Boston University,United States,"Communication, Law, Data Science","Well-known for communication theory, policy-oriented law, and applied data science in civic contexts.",90.7
+59,University of Southern California (USC),United States,"Film, Game Design, Computer Science","Top in creative media and interactive tech, bridging film, gaming, and CS innovation.",90.6
+60,Tohoku University,Japan,"Materials Science, Robotics, Earthquake Engineering","Specializes in robotics and earthquake-resilient engineering, with global reputation in advanced materials.",90.5
+61,Monash University,Australia,"Pharmacy, Medicine, Sustainable Development",Renowned for pharmaceutical research and sustainable innovation in healthcare and environmental systems.,90.3
+62,University of Leeds,United Kingdom,"Business, Earth Sciences, Education","Offers globally recognized programs in business analytics, geoscience, and education leadership.",90.2
+63,University of Copenhagen,Denmark,"Life Sciences, Public Health, Philosophy","Leader in life sciences and ethical philosophy, with strong contributions to global health policy.",90.1
+64,Osaka University,Japan,"Nanotechnology, Medicine, Engineering","Excels in nanotech and medical robotics, with strong interdisciplinary engineering research hubs.",90
+65,University of Zurich,Switzerland,"Finance, Neuroscience, Law","Known for behavioral finance, neuroeconomics, and legal reforms in international humanitarian law.",89.9
+66,Durham University,United Kingdom,"Theology, Archaeology, Business","Globally respected for theology and historical research, with a rising reputation in business education.",89.8
+67,Trinity College Dublin, Ireland,"Computer Science, Literature, Medicine","Ireland's top university with standout research in literary studies, AI, and clinical medicine.",89.7
+68,University of Alberta,Canada,"Energy Systems, AI, Environmental Engineering","Strong in energy innovation, AI applications, and sustainable resource management.",89.6
+69,University of Southampton,United Kingdom,"Oceanography, Engineering, Computer Science","Top in marine science and electrical engineering, with growing presence in AI and cybersecurity.",89.5
+70,Lomonosov Moscow State University,Russia,"Mathematics, Physics, Philosophy","Historic institution with deep theoretical work in physics and math, and strength in classical philosophy.",89.3
+71,Pontificia Universidad Católica de Chile,Chile,"Engineering, Public Policy, Environmental Studies","Latin America's leading university with research in energy systems, social policy, and green design.",89.1
+72,University of Helsinki,Finland,"Education, Linguistics, Neuroscience","Top Nordic university with strong linguistics, education systems, and brain research programs.",88.9
+73,University of Pittsburgh,United States,"Medicine, Rehabilitation Science, Public Health","Known for clinical research, physical therapy science, and epidemiological policy studies.",88.8
+74,University of Groningen,Netherlands,"Sustainability, Behavioral Science, Law","Focused on environmental law, sustainable development, and behavioral economics in policy-making.",88.6
+75,Pennsylvania State University,United States,"Engineering, Business, Cybersecurity","Strong in information assurance, supply chain analytics, and global business education.",88.5
+76,University of Bern,Switzerland,"Climate Science, Medicine, Political Science","Renowned for climate modeling, democratic governance, and translational health research.",88.3
+77,Shanghai Jiao Tong University,China,"Engineering, Naval Architecture, Computer Science","Top technical university with leadership in ship design, robotics, and next-gen computing.",88.2
+78,University of Nottingham,United Kingdom,"Pharmacy, Law, Agriculture","Known for pharmaceutical sciences, sustainable agriculture, and international legal research.",88.1
+79,Université Paris-Saclay,France,"Mathematics, Physics, Biotech","World-class research in theoretical physics, bioengineering, and top-ranked mathematics programs.",88
+80,Kyushu University,Japan,"Energy Engineering, Materials Science, Robotics","Specializes in hydrogen energy, smart materials, and human-centered robotic design.",87.9
+81,University of Geneva,Switzerland,"International Relations, Law, Astrophysics","Known for diplomacy, space sciences, and legal frameworks aligned with international governance.",87.8
+82,University of Cape Town,South Africa,"Public Health, Law, Environmental Studies","Africa's top university with strengths in social justice, health equity, and environmental reform.",87.6
+83,University of Basel,Switzerland,"Life Sciences, Medicine, Philosophy","One of the oldest in Europe, with cutting-edge biomedical research and deep philosophical tradition.",87.5
+84,University of Adelaide,Australia,"Wine Science, Medicine, Engineering","Excels in viticulture, agricultural engineering, and personalized healthcare systems.",87.3
+85,University of St Andrews,United Kingdom,"Philosophy, History, Environmental Ethics","Strong in historical studies and environmental ethics, with global reputation in liberal arts.",87.1
+86,Rice University,United States,"Engineering, Nanoscience, Policy",Known for nanotech and policy innovation in energy systems and environmental safety.,87
+87,University of Exeter,United Kingdom,"Climate Science, Archaeology, Psychology","Respected for environmental research, ancient history, and cognitive psychology programs.",86.9
+88,Indian Institute of Science (IISc),India,"Physics, Materials Science, Engineering","India's top research university, focused on condensed matter, quantum systems, and engineering design.",86.7
+89,University of Oslo,Norway,"Law, Linguistics, AI","Excels in legal studies and computational linguistics, with a growing AI ethics cluster.",86.6
+90,University of Montreal,Canada,"AI, Medicine, Linguistics","Top-tier in natural language processing, medical AI, and bilingual linguistics research.",86.5
+91,University of Ottawa,Canada,"Law, Public Policy, Digital Governance","Known for policy research and digital law, with emphasis on multicultural governance systems.",86.3
+92,University of Barcelona,Spain,"Neuroscience, Philosophy, Biomedical Research",Offers strong neuroscience and humanities integration with biomedical translation.,86.2
+93,University of Western Australia,Australia,"Mining Engineering, Marine Biology, Environmental Science","Strong in oceanography and resource sustainability, with expertise in geology and ecology.",86
+94,University of Illinois Chicago,United States,"Urban Planning, Medicine, Public Health",Urban-focused institution with top health sciences and metropolitan sustainability programs.,85.8
+95,Chalmers University of Technology,Sweden,"Engineering, Autonomous Systems, Sustainability","Known for innovations in electric mobility, autonomous robotics, and green architecture.",85.7
+96,University of Antwerp,Belgium,"Business, Port Economics, Cultural Studies","Excels in logistics, global trade studies, and contemporary cultural analysis.",85.5
+97,Universidad de Buenos Aires,Argentina,"Law, Philosophy, Social Sciences","Top in Latin America, with a strong tradition in legal and philosophical education.",85.3
+98,University of Vienna,Austria,"Linguistics, Political Science, Psychology","Respected for language research, social sciences, and historical psychology work.",85.1
+99,University of Sao Paulo,Brazil,"Agriculture, Engineering, Public Health",Brazil's flagship university with deep focus on sustainable agriculture and health equity.,85
+100,Université de Montréal,Canada,"AI, Bioinformatics, Public Policy","Strong in AI and policy research, especially in bilingual and multicultural research environments.",84.9

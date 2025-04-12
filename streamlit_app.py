@@ -3,7 +3,7 @@ import pandas as pd
 from sentence_transformers import SentenceTransformer, util
 
 # Load data and model
-df = pd.read_csv("universities.csv, encoding='latin-1'")  # Adjust the path as needed
+df = pd.read_csv("university.csv, encoding='latin-1'")  # Adjust the path as needed
 model = SentenceTransformer("paraphrase-MiniLM-L6-v2")
 
 # Generate embeddings

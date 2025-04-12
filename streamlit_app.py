@@ -7,7 +7,7 @@ df = pd.read_csv("university.csv", encoding='latin-1')  # Adjust the path as nee
 model = SentenceTransformer("paraphrase-MiniLM-L6-v2")
 
 # Generate embeddings
-descriptions = df["description"].tolist()
+descriptions = df["Description"].tolist()
 embeddings = model.encode(descriptions, convert_to_tensor=True)
 df["embedding"] = [embedding.tolist() for embedding in embeddings]
 

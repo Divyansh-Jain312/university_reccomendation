@@ -4,7 +4,8 @@ from sentence_transformers import SentenceTransformer, util
 
 # Load data and model
 df = pd.read_csv("university.csv", encoding='latin-1')  # Adjust the path as needed
-model = SentenceTransformer("paraphrase-MiniLM-L6-v2")
+from torch import device
+model = SentenceTransformer("paraphrase-MiniLM-L6-v2", device=device("cpu"))
 
 # Generate embeddings
 descriptions = df["Description"].tolist()
